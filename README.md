@@ -1,16 +1,35 @@
-### Hi there 👋
+## ¡¡Hola Mundo!! :wave:
+
+<p>Soy Jaime, un programador muy curioso. :blush: </br>
+Despues de trabajar en varios proyectos de empresas privadas, he decidido no estancarme y sobretodo ¡seguir aprendiendo! :muscle: </br>
+Me encanta la progamacion y cualquier cosa relacionada con la tecnologia ya sea nueva o antigua. :sunglasses: </br> </p>
+
+:mag: Actualmente mis intereses son: 
+- Aprender un lenguaje interpretado :page_with_curl:
+- Aprender un lenguaje compilado :computer:
+- Aprender ingles :gb:
+- Leo demasiados libros, sobretodo de fansatia epica :books: :european_castle:
+- Me encantan los videojuegos... seguramente su programacion sea de las mas complejas :grin: :video_game:
+- Me gusta la naturaleza y los animales :feet: :sunrise_over_mountains:
+
+:smiley: Algunas cosas que conozco: 
+- Java
+- Diseño de interfaces de usuario
+- SQL
+
+:sweat_smile: Agunas cosas que conozco pero debo volver a prender: 
+- HTML
+- CSS
+- JavaScript
+
+
+Espero que este GitHub crezca fuerte y frondoso para que a muchos como yo quieran seguir aprendiendo a programar!
+</br>
+¡Un saludo!
+
+:smile:
 
 <!--
-**JaimeMatasAsensio/JaimeMatasAsensio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://tutorialmarkdown.com/emojis
+https://tutorialmarkdown.com/sintaxis
 -->
