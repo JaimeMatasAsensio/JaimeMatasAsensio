@@ -17,7 +17,7 @@ Me encanta la progamacion y cualquier cosa relacionada con la tecnologia ya sea 
 - Diseño de interfaces de usuario
 - SQL
 
-:sweat_smile: Agunas cosas que conozco pero debo volver a prender: 
+:sweat_smile: Agunas cosas que conozco pero debo volver a practicar: 
 - HTML
 - CSS
 - JavaScript
