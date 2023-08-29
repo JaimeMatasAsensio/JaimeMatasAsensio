@@ -9,7 +9,7 @@ Me encanta la progamacion y cualquier cosa relacionada con la tecnologia ya sea 
 - Aprender un lenguaje compilado :computer:
 - Aprender ingles :gb:
 - Leo demasiados libros, sobretodo de fansatia epica :books: :european_castle:
-- Me encantan los videojuegos... seguramente su programacion sea de las mas complejas :grin: :video_game:
+- Me gusta el deporte
 - Me gusta la naturaleza y los animales :feet: :sunrise_over_mountains:
 
 :smiley: Algunas cosas que conozco: 
