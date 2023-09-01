@@ -29,7 +29,6 @@ Espero que este GitHub crezca fuerte y frondoso para que a muchos como yo quiera
 
 :smile:
 
-A los repositorios:
 [Repositorios](https://github.com/JaimeMatasAsensio?tab=repositories) 
 
 <!--
