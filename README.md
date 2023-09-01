@@ -5,10 +5,10 @@ Despues de trabajar en varios proyectos de empresas privadas, he decidido no est
 Me encanta la progamacion y cualquier cosa relacionada con la tecnologia ya sea nueva o antigua. :sunglasses: </br> </p>
 
 :mag: Actualmente mis intereses son: 
-- Aprender un lenguaje interpretado :page_with_curl:
-- Aprender un lenguaje compilado :computer:
+- Aprender un nuevo lenguaje interpretado :page_with_curl:
+- Aprender un nuevo lenguaje compilado :computer:
 - Aprender ingles :gb:
-- Leo demasiados libros, sobretodo de fansatia epica :books: :european_castle:
+- Leo demasiados libros, sobretodo de fansatia oscura :books: :european_castle:
 - Me gusta el deporte
 - Me gusta la naturaleza y los animales :feet: :sunrise_over_mountains:
 
